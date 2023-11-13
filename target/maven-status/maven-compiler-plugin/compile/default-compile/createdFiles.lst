@@ -1,0 +1,15 @@
+com\mycompany\pruebajpa_todocode\persistencia\exceptions\NonexistentEntityException.class
+com\mycompany\pruebajpa_todocode\persistencia\MateriaJpaController.class
+com\mycompany\pruebajpa_todocode\logica\Alumno.class
+com\mycompany\pruebajpa_todocode\logica\ControladoraLogica.class
+com\mycompany\pruebajpa_todocode\logica\Carrera.class
+com\mycompany\pruebajpa_todocode\persistencia\exceptions\PreexistingEntityException.class
+com\mycompany\pruebajpa_todocode\logica\Materia.class
+com\mycompany\pruebajpa_todocode\persistencia\AlumnoJpaController.class
+com\mycompany\pruebajpa_todocode\logica\Alumno_.class
+com\mycompany\pruebajpa_todocode\persistencia\ControladoraPersistencia.class
+com\mycompany\pruebajpa_todocode\logica\Carrera_.class
+com\mycompany\pruebajpa_todocode\persistencia\exceptions\IllegalOrphanException.class
+com\mycompany\pruebajpa_todocode\PruebaJPA_todoCode.class
+com\mycompany\pruebajpa_todocode\persistencia\CarreraJpaController.class
+com\mycompany\pruebajpa_todocode\logica\Materia_.class
